@@ -2,3 +2,11 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+
+**Names**: Lauren, Alexis
+
+1. Swim
+2. Tennis
+3. Math
+4. Reading
+5. Cooking
