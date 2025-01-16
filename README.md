@@ -10,3 +10,15 @@ This lab will get us started with GitHub.
 3. Math
 4. Reading
 5. Cooking
+
+## Courses ##
+
+- Math
+- Computer Science
+- History
+- Statistics
+- Reading
+- Writing
+- Calculus
+- Theology
+- Special Education
